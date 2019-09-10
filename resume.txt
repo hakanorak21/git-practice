@@ -1,3 +1,4 @@
 Hakan Orak
 Missouri City, TX
-Objective: > 100K
+Objective: SDET
+Tools: Java, Selenium
