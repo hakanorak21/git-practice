@@ -2,5 +2,5 @@ Hakan Orak
 Address: Missouri City, TX
 Strength: teamwork, leadership, and communication
 Objective: Full-time SDET
-Tools: Java, Selenium, SQL
+Tools: Javascript, Selenium, SQL
 
