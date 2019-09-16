@@ -1,4 +1,5 @@
 Hakan Orak
 Missouri City, TX
 Objective: SDET
-Tools: Java, Selenium
+Tools: Java, Selenium, SQL
+
